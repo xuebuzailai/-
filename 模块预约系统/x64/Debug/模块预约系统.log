@@ -1,8 +1,0 @@
-﻿  orderFile.cpp
-D:\Users\dragonli\source\repos\模块预约系统\orderFile.cpp(61,26): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
-  预约系统.cpp
-  manager.cpp
-  teacher.cpp
-  student.cpp
-  正在生成代码...
-  模块预约系统.vcxproj -> D:\Users\dragonli\source\repos\模块预约系统\x64\Debug\模块预约系统.exe
